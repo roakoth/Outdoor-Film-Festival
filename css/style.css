@@ -10,9 +10,12 @@ a, a:link, a:hover, a:active, a:focus {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
-h1, h2, h3, h4, h5, h6, p, div, span, li {
- 
-  font-family: 'Comfortaa', cursive;
+h1, h2  {
+ font-family:'Roboto', sans-serif;
+  }
+  
+  h3, h4, h5, h6, p, div, span, li{
+	 font-family: 'Roboto Condensed', sans-serif; 
   }
 
  .card-title{
