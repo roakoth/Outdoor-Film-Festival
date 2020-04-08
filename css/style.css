@@ -66,11 +66,7 @@ margin: 10px;
   #About{
     color:rgb(26, 139, 192);
   }
-  #toggler{
-    color:white;
-    background-color: white;
-  }
-  
+
   .page-holder {
     min-height: 100vh;
   }
@@ -80,9 +76,6 @@ margin: 10px;
     background-size: cover;
   }
 
-  .sponsors {
-    background: #0e0e0e;
-  }
   
   .sponsors .sponsor {
     text-align: center;
